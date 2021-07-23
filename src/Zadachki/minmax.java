@@ -17,7 +17,7 @@ public class minmax {
             if (min > array[i])
                 min = array[i];
             avg += array[i] / array.length;
-            System.out.println(max);
+            System.out.println(min);
         }
     }
 }
